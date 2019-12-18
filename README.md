@@ -5,8 +5,8 @@ Hi
 
 ___
 
--1
--2
+- point 1
+- pont 2
 ___
 ```
 print("hello")
